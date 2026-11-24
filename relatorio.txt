@@ -1,0 +1,12 @@
+=== RELATÓRIO DE ANÁLISE ===
+Data/Hora: 24/11/2026 11:31:39
+Arquivo analisado: exemplo.log
+
+--- Linhas importantes (ERROR e WARNING) ---
+[ERROR] Falha na conexão com o banco
+[WARNING] Memória baixa
+[ERROR] Timeout na API
+
+Total de ERRORs: 2
+Total de WARNINGs: 1
+Total de INFOs: 3
